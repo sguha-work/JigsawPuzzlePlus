@@ -5,7 +5,7 @@ export class Common {
     public getDefaultObject() {
         let obj: any;
         obj = {
-            imageData: "0"
+            imageData: ""
         };
         return obj;
     }
